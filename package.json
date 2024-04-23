@@ -16,7 +16,7 @@
     "start": "npm start",
     "build": "echo 'No build step'",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },,
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
