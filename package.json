@@ -12,9 +12,9 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
- "scripts": {
+  "scripts": {
     "start": "react-scripts start",
-    "build": "echo 'No build step'",
+    "build": "react-scripts build", // Updated build script to actually build the app
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "eslintConfig": {
